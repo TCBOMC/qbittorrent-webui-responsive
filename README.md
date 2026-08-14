@@ -15,7 +15,7 @@
 
 ## 🎯 这是什么
 
-**qBittorrent WebUI Mobile UI** 为 qBittorrent Alternative WebUI 增加桌面/移动端自动分流功能。
+**qBittorrent WebUI Responsive** 为 qBittorrent Alternative WebUI 增加桌面/移动端自动分流功能。
 
 访问 WebUI 时自动判断当前环境：
 
@@ -217,7 +217,7 @@ qbittorrent-webui-i18n
 多语言 WebUI
     │
     ▼
-qBittorrent WebUI Mobile UI
+qBittorrent WebUI Responsive
     │
     ├──→ Desktop UI
     └──→ Mobile UI
