@@ -1,8 +1,8 @@
 <div align="center">
 
-# 📱 qBittorrent WebUI Mobile UI
+# 📱 qBittorrent WebUI Responsive
 
-**qBittorrent WebUI 移动端自动分流工具**
+**qBittorrent WebUI 桌面/移动端自动分流工具**
 
 自动识别手机 / 平板 / 浏览器设备模拟，并进入独立的移动版 WebUI
 
@@ -15,7 +15,7 @@
 
 ## 🎯 这是什么
 
-**qBittorrent WebUI Mobile UI** 为 qBittorrent Alternative WebUI 增加移动端自动分流功能。
+**qBittorrent WebUI Mobile UI** 为 qBittorrent Alternative WebUI 增加桌面/移动端自动分流功能。
 
 访问 WebUI 时自动判断当前环境：
 
@@ -29,7 +29,7 @@
 >
 > [**qbittorrent-webui-i18n**](https://github.com/TCBOMC/qbittorrent-webui-i18n)
 >
-> 先使用 `qbittorrent-webui-i18n` 对官方 WebUI 进行多语言预处理，再使用本项目添加移动端 UI 分流，可以同时获得**多语言支持 + 独立移动端 UI**。
+> 先使用 `qbittorrent-webui-i18n` 对官方 WebUI 进行多语言预处理，再使用本项目添加桌面/移动端 UI 分流，可以同时获得**多语言支持 + 独立移动端 UI**。
 
 ---
 
